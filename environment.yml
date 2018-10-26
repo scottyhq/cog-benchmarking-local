@@ -11,10 +11,10 @@ dependencies:
   - nbserverproxy=0.8
   - jupyter=1.0
   - ipywidgets=7.4
-  - graphviz=2.40
+  - graphviz=2.38
   - jupyterlab=0.35
   - nodejs=8.12
-  - libgdal=2.3
+  - libgdal=2.3.2
   - boto3=1.9.31
   - requests=2.20
   - pandas=0.23
