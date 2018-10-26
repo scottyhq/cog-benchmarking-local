@@ -1,0 +1,24 @@
+name: pangeo
+channels:
+  - conda-forge
+dependencies:
+  - nomkl
+  - python=3.6
+  - xarray=0.10.9
+  - dask=0.19
+  - distributed=1.23
+  - matplotlib=3.0
+  - nbserverproxy=0.8
+  - jupyter=1.0
+  - ipywidgets=7.4
+  - graphviz=2.40
+  - jupyterlab=0.35
+  - nodejs=8.12
+  - libgdal=2.3
+  - boto3=1.9.31
+  - requests=2.20
+  - pandas=0.23
+  - pip:
+    - rasterio==1.0.9
+    - wurlitzer==1.0.2
+    - satsearch==0.1.0
